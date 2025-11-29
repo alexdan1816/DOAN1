@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "DoAn1",
+		"path": "."
+	},
+	{
+		"name": "Blynktest",
+		"path": "../../ESP32PROJECT/Blynktest"
+	}
+],
+  "settings": {}
+}
